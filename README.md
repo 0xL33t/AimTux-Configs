@@ -1,6 +1,6 @@
-## My Current Legit and Rage Configs for AimTux.
+## Legit, Rage, HvH and Grenade Configs for AimTux.
 
-*_Rage Config isn't the same as mine because currently I got some extra Anti Aims that will problably be added to AimTux_*
+*_Originally forked from machineTheGlobal_*
 
 _______________________________________________________________________________________________________________________________
 
